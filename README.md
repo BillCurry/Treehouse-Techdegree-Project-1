@@ -1,1 +1,1 @@
-# Treehouse Techdegree Project 1
+# TreeHouse Techdegree Project 1
